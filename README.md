@@ -28,6 +28,6 @@ AI-assisted development, with explicit assumptions and executable checks. The cu
 
 - [Technical notes](https://adrianstudio3.hashnode.dev/)
 - [Free sample ZIP](https://adrianstudio3.itch.io/notification-timeout-lab-free-java-sample)
-- [Notification Failure Kit](https://adrianstudio3.gumroad.com/l/iqwjwr) · a separate paid teaching kit sold by Adrian Studio
+- [Notification Failure Lab for Spring Boot](https://adrianstudio3.gumroad.com/l/iqwjwr) · a separate paid teaching kit sold by Adrian Studio
 
 The free lab stands on its own. No purchase is required to run it.
